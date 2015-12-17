@@ -9,6 +9,5 @@ int get(){
 
 void main(){
 	print("Hello world");
-
 	get();
 }
