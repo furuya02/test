@@ -2,6 +2,13 @@
 33333
 //22222
 
+
+int get(){
+     return 100;
+}
+
 void main(){
 	print("Hello world");
+
+	get();
 }
